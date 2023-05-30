@@ -10,8 +10,8 @@ I'm a fresh graduate from a vocational high school with a major in software engi
 
 ## 🛠️ Skills
 
-- **Languages:** Java, JavaScript, Typescript
-- **Frameworks/Libraries:** React, Node.js, NextJs
+- **Languages:** Java, PHP, JavaScript, Typescript
+- **Frameworks/Libraries:** React, Node.js, NextJs, Laravel
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Databases:** MySQL, Firebase
 
@@ -23,9 +23,9 @@ I'm a fresh graduate from a vocational high school with a major in software engi
 
 ## 📊 GitHub Stats
 
-![Akbar Siddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Akbar Siddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarsiddic&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarsiddic&layout=compact&theme=radical)
 
 
 ## 🤝 Let's collaborate!

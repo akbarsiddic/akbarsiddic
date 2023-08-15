@@ -10,7 +10,7 @@ I'm a fresh graduate from a vocational high school with a major in software engi
 
 ## 🛠️ Skills
 
-- **Languages:** Java, PHP, JavaScript, Typescript
+- **Languages:** PHP, JavaScript, Typescript
 - **Frameworks/Libraries:** React, Node.js, NextJs, Laravel
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Databases:** MySQL, Firebase

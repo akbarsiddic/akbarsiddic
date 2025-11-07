@@ -15,11 +15,6 @@ I'm a software developer with 2 years of experience. I'm passionate about techno
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Databases:** MySQL, Firebase
 
-## 📫 How to reach me
-
-- Personal website: [akbarsiddiq.my.id](https://akbarsiddiq.my.id)
-- LinkedIn: [linkedin.com/in/akbarsiddiq](https://www.linkedin.com/in/akbarsiddiq/)
-- Email: [akbarsiddiq402@gmail.com](mailto:akbarsiddiq402@gmail.com)
 
 ## 📊 GitHub Stats
 

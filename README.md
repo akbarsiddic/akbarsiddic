@@ -2,7 +2,7 @@
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Graduate-blue)
 
-I'm a software developer with 2 years of experience. I'm passionate about technology and always eager to learn about the latest developments in the field. Check out my personal website at [akbarsiddiq.my.id](https://akbarsiddiq.my.id) and connect with me on [LinkedIn](https://www.linkedin.com/in/akbarsiddiq/).
+I'm a software developer with 2 years of experience. I'm passionate about technology and always eager to learn about the latest developments in the field. 
 
 ## 🌱 What I'm currently learning
 

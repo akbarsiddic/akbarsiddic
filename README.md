@@ -15,14 +15,6 @@ I'm a software developer with 2 years of experience. I'm passionate about techno
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Databases:** MySQL, Firebase
 
-
-## 📊 GitHub Stats
-
-![Akbar Siddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarsiddic&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbarsiddic&layout=compact&theme=radical)
-
-
 ## 🤝 Let's collaborate!
 
 I'm open to collaborating on projects, sharing knowledge, and working together to achieve common goals. If you have any ideas or want to work together, feel free to reach out!

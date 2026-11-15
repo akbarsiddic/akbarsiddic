@@ -2,18 +2,15 @@
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Graduate-blue)
 
-I'm a software developer with 2 years of experience. I'm passionate about technology and always eager to learn about the latest developments in the field. 
+I'm a software developer with 3+ years of experience. I'm passionate about technology and always eager to learn about the latest developments in the field. 
 
 ## 🌱 What I'm currently learning
 
-- [ ] Web development
+- [v] Web development
+- [ ] IoT
+- [ ] Devops
+- [ ] Mobile Development
 
-## 🛠️ Skills
-
-- **Languages:** PHP, JavaScript, Typescript
-- **Frameworks/Libraries:** React, Node.js, NextJs, Laravel
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Databases:** MySQL, Firebase
 
 ## 🤝 Let's collaborate!
 

@@ -6,7 +6,7 @@ I'm a software developer with 3+ years of experience. I'm passionate about techn
 
 ## 🌱 What I'm currently learning
 
-- [v] Web development
+- [x] Web development
 - [ ] IoT
 - [ ] Devops
 - [ ] Mobile Development
